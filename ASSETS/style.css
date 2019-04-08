@@ -6,9 +6,15 @@ body {
 h1 {
   font-family: initial;
   text-align: center;
-  font-size: 70px;
+  font-size: 85px;
   margin-top: 10px;
   margin-bottom: 15px;
+  font: bolder xx-large;
+  color:midnightblue;
+}
+#designerLabel {
+margin-left: 70px;
+
 }
 
 #designerButton {

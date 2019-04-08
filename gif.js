@@ -51,10 +51,10 @@ function x2() {
 function createBtn() {
 
   $("#designerButton").empty();
-  // Looping through the array of movies
+  // Looping through the array 
   for (var i = 0; i < designers.length; i++) {
     var a = $("<button>");
-    // Adding a class of movie-btn to our button
+    // Adding a class of
     a.addClass("dBtn");
     // Adding a data-attribute
     a.attr("data-name", designers[i]);
