@@ -1,44 +1,39 @@
-/* #topics {
-  margin-left: 25px;
-  margin-top: 25px;
-  margin-right: 25px;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
 body {
-  background-image: url("../images/background.jpg");
+  background-image: url("../Colorful Abstract Design.jpg");
   background-repeat: repeat;
 }
-.container {
-  margin :30px
+
+h1 {
+  font-family: initial;
+  text-align: center;
+  font-size: 70px;
+  margin-top: 10px;
+  margin-bottom: 15px;
 }
-h1{
-  align-content: center;
-  margin-top: 30px;
-/* 
-}
-#designerButton { 
-  background-color: #4CAF50; /* Green */
-  /* border: none;
-  color: white;
+
+#designerButton {
+  color:hotpink;
   padding: 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 15px;
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 8px;
-} */
-
-/* #designerSearch { 
-   position: absoulte;
-  
-}*/
-
-
-/* #designerLabel {
-
+  text-shadow: 2px;
 }
-#addDesigner { */
 
+
+img {
+  width: 100%;
+  height: 300px;
+}
+.dBtn {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  margin-left: 10px;
+  border-color: blue;
+  margin-bottom: 10px;
+}
