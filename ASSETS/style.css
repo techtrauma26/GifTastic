@@ -1,5 +1,5 @@
 body {
-  background-image: url("../Colorful Abstract Design.jpg");
+  background-image: url("../background3.jpg");
   background-repeat: repeat;
 }
 
@@ -22,14 +22,16 @@ h1 {
   cursor: pointer;
   border-radius: 8px;
   text-shadow: 2px;
+  font-weight: 250%;
+  font: bold;
 }
 
 label {
   margin-left: 70px;
 }
 img {
-  width: 100%;
-  height: 300px;
+  width: 200px;
+  height: 200px;
 }
 .dBtn {
   font-family: inherit;
